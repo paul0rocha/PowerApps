@@ -14,9 +14,16 @@ O projeto consiste obter paradas de um robô e assim temos visibilidade das perd
 
 ![p1](https://user-images.githubusercontent.com/63813811/194687192-967d523f-deb8-4410-90b4-3e116bf23adf.png)
 
+
 ##### Power Automate
 
 ![p453](https://user-images.githubusercontent.com/63813811/194687398-4f1a39f1-93dd-47cc-8d13-6ed77a4fe6ff.png)
+
+
+##### PDF
+
+![check list](https://user-images.githubusercontent.com/63813811/194687481-9375b178-c92e-437f-a412-bc549a6dad82.png)
+
 
 
 #### Aplicabilidade
