@@ -1,10 +1,20 @@
-## POWER APPS e POWER AUTOMATE
+## ## Power Apps and Power Automate
 
-### Projetos
 
-#### Check LisT - Digital
+ ![Img](https://github.com/steniowagner/mindCast/assets/63813811/4c0f7c9a-4e72-4987-b507-2e5549d6f7a0)
 
-O projeto consiste obter paradas de um robô e assim temos visibilidade das perdas de produtividades durante o dia, após o envio do relatório configuramos um fluxo via power automate para converter os arquivos de HTML para PDF e em seguida enviar para os e-amail da supervisão o mesmo é gravado em uma base em excel.
+
+
+## About this Project
+
+The idea of ​​the program is:
+
+_"The project consists of obtaining stops from a robot and thus we have visibility of productivity losses during the day, after sending the report we set up a flow via power automate to convert the files from HTML to PDF and then send them to the supervision e-mails the same is recorded in an excel base."._
+
+**PS:** We carried out the development to facilitate operational visibility for decision making by the management and supervision team to guarantee the separation processes.
+
+🤩:**
+
 
 ##### View APP
 
@@ -24,13 +34,26 @@ O projeto consiste obter paradas de um robô e assim temos visibilidade das perd
 
 ![check list](https://user-images.githubusercontent.com/63813811/194687481-9375b178-c92e-437f-a412-bc549a6dad82.png)
 
+## Use
+
+- Upload the file excel to google colab
+ 
+ 
+![Img](https://github.com/steniowagner/mindCast/assets/63813811/6202b53b-5431-4626-a4af-6f66f1b176cc)
+   
+
+## Contributing
+
+You can send how many PR's do you want, I'll be glad to analyse and accept them! And if you have any question about the project...
+
+Email-me: pauloseng80@gmail.com.com
+
+Connect with me at [LinkedIn](https://www.linkedin.com/in/pauloroch/)
+
+Thank you!
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/paul0rocha/mindCast/blob/master/LICENSE) file for details
 
 
-#### Aplicabilidade
-
-Realizamos o desenvolvimento para facilitar a visibilidade operacioal para tomada de decisões pelo time de gestão e supervição para garantir os processos de separação.
-
-
-
-
-#### Tks!
