@@ -29,13 +29,6 @@ _"The project consists of obtaining stops from a robot and thus we have visibili
 
 ![check list](https://user-images.githubusercontent.com/63813811/194687481-9375b178-c92e-437f-a412-bc549a6dad82.png)
 
-## Use
-
-- Upload the file excel to google colab
- 
- 
-![Img](https://github.com/steniowagner/mindCast/assets/63813811/6202b53b-5431-4626-a4af-6f66f1b176cc)
-   
 
 ## Contributing
 
