@@ -1,9 +1,4 @@
-## ## Power Apps and Power Automate
-
-
- ![Img](https://github.com/steniowagner/mindCast/assets/63813811/4c0f7c9a-4e72-4987-b507-2e5549d6f7a0)
-
-
+#### Power Apps and Power Automate
 
 ## About this Project
 
